@@ -1,0 +1,43 @@
+body {
+    align-items: center;
+    background-color: #222222;
+}
+
+#main {
+    border: 3px solid;
+    border-color: #780482;
+    height: 200px;
+    width: 680px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+}
+
+#logo {
+    padding-top: 30px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    float: left;
+    border: none;
+    margin-right: 10px;
+}
+
+#text {
+    color: #9c8599;
+    box-sizing: border-box;
+    padding-top: 10px;
+    margin-left: 15px;
+    width: 650px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#clarusway {
+    margin-bottom: 30px;
+}
+
+p {
+    text-align: justify;
+    margin-top: 30px;
+    font-size: 15px;
+}
